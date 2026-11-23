@@ -1,0 +1,8 @@
+{
+  "name": "DECO Prep Studio",
+  "description": "Offline-ready exam preparation companion for Digital Electronics & Computer Organization (U24EC304) with personalized study schedules, spaced-repetition flashcards, practice tests, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
